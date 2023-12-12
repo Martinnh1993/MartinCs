@@ -1,0 +1,14 @@
+C:\Users\Marti\.vscode\MartinCs\examenProject\bin\Debug\net7.0\examenProject.exe
+C:\Users\Marti\.vscode\MartinCs\examenProject\bin\Debug\net7.0\examenProject.deps.json
+C:\Users\Marti\.vscode\MartinCs\examenProject\bin\Debug\net7.0\examenProject.runtimeconfig.json
+C:\Users\Marti\.vscode\MartinCs\examenProject\bin\Debug\net7.0\examenProject.dll
+C:\Users\Marti\.vscode\MartinCs\examenProject\bin\Debug\net7.0\examenProject.pdb
+C:\Users\Marti\.vscode\MartinCs\examenProject\obj\Debug\net7.0\examenProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marti\.vscode\MartinCs\examenProject\obj\Debug\net7.0\examenProject.AssemblyInfoInputs.cache
+C:\Users\Marti\.vscode\MartinCs\examenProject\obj\Debug\net7.0\examenProject.AssemblyInfo.cs
+C:\Users\Marti\.vscode\MartinCs\examenProject\obj\Debug\net7.0\examenProject.csproj.CoreCompileInputs.cache
+C:\Users\Marti\.vscode\MartinCs\examenProject\obj\Debug\net7.0\examenProject.dll
+C:\Users\Marti\.vscode\MartinCs\examenProject\obj\Debug\net7.0\refint\examenProject.dll
+C:\Users\Marti\.vscode\MartinCs\examenProject\obj\Debug\net7.0\examenProject.pdb
+C:\Users\Marti\.vscode\MartinCs\examenProject\obj\Debug\net7.0\examenProject.genruntimeconfig.cache
+C:\Users\Marti\.vscode\MartinCs\examenProject\obj\Debug\net7.0\ref\examenProject.dll

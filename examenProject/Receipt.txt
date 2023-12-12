@@ -1,0 +1,17 @@
+Receipt:
+
+Group 1:
+ - Item: D, Quantity: 1, Price: 0,99kr
+ - Item: A, Quantity: 2, Price: 5,00kr
+
+Group 2:
+ - Item: B, Quantity: 3, Price: 9,00kr
+
+Group 3:
+ - Item: G, Quantity: 1, Price: 2,10kr
+
+Group 4:
+ - Item: F, Quantity: 1, Price: 4,25kr
+
+Discount: 0,00kr
+Total Price: 25,84kr

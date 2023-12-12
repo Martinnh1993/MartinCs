@@ -1,0 +1,19 @@
+Complex Receipt:
+
+Group 1:
+ - Item: A, Quantity: 3, Price: 7,50kr
+ - Item: I, Quantity: 1, Price: 6,00kr
+
+Group 2:
+ - Item: B, Quantity: 6, Price: 18,00kr
+ - Item: E, Quantity: 2, Price: 10,00kr
+
+Group 4:
+ - Item: F, Quantity: 1, Price: 4,25kr
+
+Group 5:
+ - Item: H, Quantity: 3, Price: 9,60kr
+
+Discount: 4,00kr
+
+Total Price: 55,35kr
